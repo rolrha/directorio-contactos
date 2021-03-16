@@ -1,0 +1,40 @@
+{
+   "duenoNombre" : "Rolando",
+   "duenoApellido" : "Hernandez",
+   "duenoEdad" : "37",
+   "duenoCorreo" : "rolrha@gmail.com",
+   "duenoTelefono" : "88453371",
+   "duenoCedula" : "111960349",
+   "contactos" : [
+      {
+       "cedula" : "111960350",
+		 "nombre" : "Natalia",
+		 "primerApellido" : "Benavides",
+		 "segundoApellido" : "Vargas",
+		 "edad" : "35",
+		 "correo" : "nbenavides@gmail.com",
+		 "telefono" : "83514291",
+       "direccion" : {
+			 "calle" : "Vila Sendero",
+			 "canton" : "San Rafael",
+			 "provincia" : "Heredia",
+			 "pais" : "Costa Rica"
+		 }
+      },
+      {
+       "cedula" : "111960351",
+		 "nombre" : "Paco",
+		 "primerApellido" : "Benavides",
+		 "segundoApellido" : "Alavarado",
+		 "edad" : "14",
+		 "correo" : "paquitohb@gmail.com",
+		 "telefono" : "83514250",
+       "direccion" : {
+		    "calle" : "Vila Sendero",
+			 "canton" : "San Rafael",
+			 "provincia" : "Heredia",
+			 "pais" : "Costa Rica"
+		 }
+      }
+   ]
+   }
